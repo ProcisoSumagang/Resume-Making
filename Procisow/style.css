@@ -1,0 +1,106 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #d8e9b965;
+ 
+}
+
+.poster {
+    font-size: 16px;
+    margin: 0;
+    letter-spacing: 2px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.name {
+    font-size: 16px;
+    margin-left: 0;
+    letter-spacing: 2px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.address {
+    font-size: 16px;
+    margin-left: 0;
+    letter-spacing: 2px;
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.phone {
+    font-size: 16px;
+    margin-left: 0;
+    letter-spacing: 2px;
+    text-align: right;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.objective {
+    font-size: 16px;
+    margin-left: 0;
+    letter-spacing: 2px;
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.explain {
+    font-size: 16px;
+    margin-left: 0;
+    letter-spacing: 2px;
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.educ {
+    font-size: 16px;
+    margin-left: 0;
+    letter-spacing: 2px;
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.ul {
+    font-size: 16px;
+    margin-left: 0;
+    letter-spacing: 2px;
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.skill {
+    font-size: 16px;
+    margin-left: 0;
+    letter-spacing: 2px;
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.proj {
+    font-size: 16px;
+    margin-left: 0;
+    letter-spacing: 2px;
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.simp {
+    font-size: 16px;
+    margin-left: 0;
+    letter-spacing: 2px;
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.skil {
+    font-size: 16px;
+    margin-left: 0;
+    letter-spacing: 2px;
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+
+
+
